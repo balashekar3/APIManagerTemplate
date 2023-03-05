@@ -66,13 +66,13 @@
 			path = MVVM;
 			sourceTree = "<group>";
 		};
-		0D050D8D29A7C61500A9B822 /* Balu */ = {
+		0D050D8D29A7C61500A9B822 /* Network */ = {
 			isa = PBXGroup;
 			children = (
 				0D050D8529A79DD900A9B822 /* APIManager.swift */,
 				0DEC137329B4E914001E7789 /* Protocols.swift */,
 			);
-			path = Balu;
+			path = Network;
 			sourceTree = "<group>";
 		};
 		0D86580229A7503200F102CA = {
@@ -94,7 +94,7 @@
 		0D86580D29A7503200F102CA /* APIManagerTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				0D050D8D29A7C61500A9B822 /* Balu */,
+				0D050D8D29A7C61500A9B822 /* Network */,
 				0D050D8A29A7A96600A9B822 /* MVVM */,
 				0D86582229A752BA00F102CA /* Enums */,
 				0D050D8729A7A76200A9B822 /* AppDelegates */,
